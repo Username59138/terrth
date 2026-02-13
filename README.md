@@ -1,1 +1,5 @@
-ALPHA VERSION PLEASE DO NOT RATE THIS
+(Terraria clone)
+
+**Terrth**
+
+version 0.0.1
